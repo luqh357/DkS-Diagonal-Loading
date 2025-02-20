@@ -1,6 +1,6 @@
 Description
 -----------
-The implementation of the AAAI 2025 paper "Densest k-Subgraph Mining via a Provably Tight Relaxation" and its extended version ["On Densest k-Subgraph Mining and Diagonal Loading"](https://arxiv.org/pdf/2410.07388). This demo apply proposed algorithms to the Facebook dataset with various values of k.
+The implementation of the AAAI 2025 paper "Densest k-Subgraph Mining via a Provably Tight Relaxation" and its extended version ["On Densest k-Subgraph Mining and Diagonal Loading"](https://arxiv.org/pdf/2410.07388). This demo applies the proposed algorithms to the Facebook dataset with various values of k.
 
 
 Instruction
